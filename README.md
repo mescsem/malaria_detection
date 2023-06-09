@@ -8,7 +8,6 @@ We hope to produce models that accurately identify malaria infection in human ce
 
 By creating a model that accurately and efficitenly does this, we hope to assist in improving quality of life and providing quick solutions for medical practictioners to accurately classify if human blood cells contain malaria. The Malaria Detection Project analyzes a dataset of cell images obtained from the NIH Website. The blood samples were collected from Chittagong Medical College Hospital in Bangladesh and subsequently photographed. By successfully creating this model, we are confident that we will be able to extract valuable insights from the data and contribute to the understanding of Malaria diagnosis and treatment.
 
-
 ## Data Description and Handling
 
 Our data is distributed via Kaggle (https://www.kaggle.com/datasets/iarunava/cell-images-for-detecting-malaria) and originally sourced from NIH (https://lhncbc.nlm.nih.gov/LHC-research/LHC-projects/image-processing/malaria-screener.html). The blood samples were collected from Chittagong Medical College Hospital in Bangladesh and subsequently photographed. There are 27,558 cell images collected among 193 total patients (148 infected, 45 uninfected), sorted into two directories: parasitized and clear, with RGB coding. 
